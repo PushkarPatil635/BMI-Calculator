@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("project2img2.jpg");
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.container {
+    margin-left: 21%;
+    size: 60%;
+    height: 60%;
+    width: 60%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center vertically */
+    box-sizing: border-box; /* Ensure border width doesn't exceed 100% */
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
